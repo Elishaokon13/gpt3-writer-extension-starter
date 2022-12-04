@@ -1,5 +1,12 @@
 body {
+    color: indigo;
+    font-weight: bold;
     min-width: 250px;
+}
+
+button {
+  width: full;
+  border-radius: 10%;
 }
 
 #key_entered {
